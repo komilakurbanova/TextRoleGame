@@ -203,5 +203,3 @@ def get_distance(from_id: str, to_id: str):
     raise sqlite3.Error
 
 conn.commit()
-
-conn.close()
