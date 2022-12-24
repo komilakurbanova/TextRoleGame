@@ -1,5 +1,5 @@
 # TextRoleGame
-Бот для ролевой текстовой фэнтези-игры @KvrmalinsRoleGameBot
+Бот для ролевой текстовой фэнтези-игры [@KvrmalinsRoleGameBot](https://t.me/KvrmalinsRoleGameBot)
 
 План мира:
 
